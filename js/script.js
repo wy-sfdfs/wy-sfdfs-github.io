@@ -545,7 +545,7 @@ class ButtonAnimationSystem {
 
         // 问题文字变化数组
         this.questionTexts = [
-            "可以成为我的小狗吗？",
+            "可以成为叉叉的小狗吗？",
             "真的不考虑一下吗？",
             "我真的很喜欢你呀！",
             "给我一次机会好不好？",
